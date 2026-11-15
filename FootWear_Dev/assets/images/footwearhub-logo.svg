@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">FootwearHub</title>
+  <defs>
+    <linearGradient id="lg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#6f42c1" />
+    </linearGradient>
+  </defs>
+  <!-- compact mark: rounded square with FH -->
+  <rect x="2" y="4" width="40" height="40" rx="8" fill="url(#lg)" />
+  <text x="22" y="31" font-family="Comfortaa, Arial, sans-serif" font-size="20" font-weight="800" fill="#fff" text-anchor="middle">FH</text>
+  <!-- wordmark -->
+  <text x="56" y="32" font-family="Comfortaa, Arial, sans-serif" font-size="18" font-weight="700" fill="#6f42c1">FootwearHub</text>
+</svg>
